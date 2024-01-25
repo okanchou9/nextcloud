@@ -34,6 +34,8 @@ Install
 
 ```bash
 # prepare your os and install ansible
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fokanchou9%2Fnextcloud.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fokanchou9%2Fnextcloud?ref=badge_shield)
+
 curl -s https://raw.githubusercontent.com/ReinerNippes/nextcloud/master/prepare_system.sh | /bin/bash
 
 # clone this repo
@@ -168,3 +170,7 @@ credential_store      = /etc/nextcloud
 If you find this Playbook helpful and want to donate something. Please go to this web page donate for children in need. 
 
 https://wir-fuer-kinder-in-not.org/ and click on "Spenden" (Donate)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fokanchou9%2Fnextcloud.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fokanchou9%2Fnextcloud?ref=badge_large)
